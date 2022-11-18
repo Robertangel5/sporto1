@@ -1,0 +1,246 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+}
+
+body{
+
+ background:#313d52 ; 
+}
+
+
+
+
+header{
+
+max-width: 2000px;
+min-height: 130px;
+margin: 0 auto;
+background:#fff ;
+text-align: center;
+}
+.logo {
+  
+}
+
+
+#navegador{
+  max-width: 2000px;
+  min-height: 130px;
+}
+
+.navegador ul{
+  list-style: none;
+
+
+}
+
+
+.menu li{
+  position: relative;
+  display: inline-block;
+background-position: center;
+
+}
+
+
+
+.menu  li  a{
+
+  display: block ;
+  padding: 15px 20px;
+  color: #353535;
+
+  text-decoration: none;
+  text-transform: uppercase;
+
+
+ 
+ }
+
+.menu li a:hover {
+  color: #CE7D35;
+  transition: all.3s;
+  
+}
+
+
+
+
+
+#ftp{
+ 
+  max-width: 900px;
+  text-decoration: none;
+  text-align: center;
+  box-shadow: 0px 0px 10px 0px black;
+  margin: 0 auto;
+
+}
+
+.text h1{
+  margin-right: 600px;
+  text-decoration-color: orange;
+ display: block;
+   text-transform: uppercase;
+}
+.text h1:hover{
+
+color: #CE7D35;
+  transition: all.3s;
+}
+
+#ftp ul li{
+  text-decoration: none;
+  display: inline-block;
+  margin-inline: 8px;
+
+
+}
+
+
+
+
+
+.foto1{
+margin-do: 00px;
+margin-block: inherit;
+
+}
+
+
+
+
+
+#ft{
+  max-width: 900px;
+  text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#ft ul li{
+  text-decoration: none;
+  display: inline-block;
+  margin-inline: 8px;
+}
+#ft h1{
+  margin-right: 500px;
+
+  text-transform: inherit;
+}
+#ft hr{
+  max-width: 1000px;
+
+ text-align: center;
+margin-left: 140px;
+
+
+}
+#ft h1 hr :hover{
+  color: #CE7D35;
+  transition: all.3s;
+}
+
+
+#titulo h1{
+margin-left: 1100px;
+color: blue;
+}
+
+#mv hr {
+
+  margin-right: 150px;
+}
+
+
+
+
+
+
+.foto1{
+  padding: 20ox;
+  margin-left:200px;
+
+}
+.fot1 li{
+  position: relative;
+  display: inline-block;
+background-position: center;
+
+}
+
+
+
+
+#contenido p{
+  margin: 1px;
+  text-align: center;
+}
+
+#contenido h1{
+  margin-left: 200px;
+  color: blue;
+
+}
+
+
+#contenido hr{
+  margin-left: 200px;
+}
+
+
+#nosotro{
+max-width: 1000px;
+max-height: 1000px;
+margin-left: 100px;
+
+}
+  #nosotro h1{
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+#pie{
+
+  
+}
+
+
+
+
+#telefono h4{
+  margin-left: 900px; 
+display: block;
+}
+
+#coreo h2{
+text-align: center;
+padding: 10px
+
+
+}
+
+#redes{
+  margin-right: 1000px; 
+  padding: 20px;
+
+
+}
+#redes li{
+  display: inline-block;
+margin: 0 auto;
+}
+
+#redes a{
+  text-decoration: none;
+color: #000;
+
+
+}
